@@ -1,5 +1,5 @@
 // O'Moelleux — hors-ligne : la page d'accueil vient du réseau d'abord, puis du cache.
-const CACHE_NAME = "omoelleux-2026-1";
+const CACHE_NAME = "omoelleux-2026-2";
 const ASSETS = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (event) => {
